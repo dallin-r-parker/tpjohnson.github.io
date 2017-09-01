@@ -1,0 +1,16 @@
+name: "my-website"
+navbar:
+  title: "Trevor Johnson"
+  right:
+    - text: "Home" 
+      href: index.html
+    - text: "Projects" 
+      href: projects.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Other Links"
+      href: links.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate 

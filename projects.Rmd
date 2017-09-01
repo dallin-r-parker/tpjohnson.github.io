@@ -1,0 +1,8 @@
+---
+title: "Projects"
+---
+
+Project I completed working for JTA in the summer of 2017.  I built a shiny web application for our client, Microsoft.  The program names in the data have been concealed for confidentiality reasons.
+[JTA Project](https://trevorjohnson.shinyapps.io/jta_app/)
+
+
